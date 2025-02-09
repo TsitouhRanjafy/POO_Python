@@ -20,5 +20,5 @@ class TalkingCat(Cat, Talker):
 
 
 salem = TalkingCat()
-salem.meow()
-salem.say("Hello!")
+salem.meow() # Meow comme un chat
+salem.say("Hello!") # et parler comme un homme
