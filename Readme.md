@@ -12,7 +12,7 @@
 
 -  **Siérarchies d’héritage et l’héritage multiple**:
    
-        ![16189371266543_P2C4-1](https://github.com/user-attachments/assets/744fdbea-b3ac-410b-a068-f71df5f682c2)
+  ![16189371266543_P2C4-1](https://github.com/user-attachments/assets/744fdbea-b3ac-410b-a068-f71df5f682c2)
 
     
    Dans cette hiérarchie,  **FilmCassette**  et  **FilmDVD**  sont des sous-classes de**Film**, et  **FilmCassetteVHS**  et  **FilmCassetteSVHS**  sont des sous-classes de**FilmCassette**.
