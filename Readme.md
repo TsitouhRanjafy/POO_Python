@@ -11,13 +11,15 @@
   - Une classe enfant peut fournir **sa propre implémentation** d’un élément hérité de sa classe parent.
 
 -  **Siérarchies d’héritage et l’héritage multiple**:
-
-    - bcdehcv 
    
         ![16189371266543_P2C4-1.png](../../home/ramiaranjafy/T%C3%A9l%C3%A9chargements/16189371266543_P2C4-1.png)
     
    Dans cette hiérarchie,  **FilmCassette**  et  **FilmDVD**  sont des sous-classes de**Film**, et  **FilmCassetteVHS**  et  **FilmCassetteSVHS**  sont des sous-classes de**FilmCassette**.
 
-    - vvffez 
+- **L'object dans des collections**
+
+    - Il faut faire la distinction entre **“l’assignation”** (le fait d’assigner une nouvelle valeur à une variable avec le signe égal), et la **“modification”** (le fait de modifier l’état d’un objet). Quand vous réassignez une variable, vous ne modifiez pas sa valeur actuelle, mais vous la changez pour une nouvelle valeur. ;)
+
+
     
      
