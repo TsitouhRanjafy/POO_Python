@@ -18,4 +18,6 @@ def division(a: float,b: float) -> float:
     assert b != 0 # souvent utiliser dans test
     return a/b
 
-print(division(5,0))
+print(division(5,3))
+
+print(__name__)
